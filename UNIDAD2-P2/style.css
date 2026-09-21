@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(255, 251, 0);
+}
+
+.datos{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.datos li {
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.datos ul {
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.datos ul li {
+    font-weight: normal;
+    
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+#descripcion { 
+    text-align: start;
+    
+
+}
+
+.lore {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: smaller;
+}
+
+img{
+    border-radius: 0cqmax;
+    display: flow-root;
+}
